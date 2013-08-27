@@ -4,7 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
-    public class Class1
+static class ENUM
     {
+    public enum DAMAGETYPE { Normal, Fire, Poisen, Electro,Ice };
+
     }
+
