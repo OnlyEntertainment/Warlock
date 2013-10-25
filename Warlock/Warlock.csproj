@@ -46,6 +46,7 @@
     <Compile Include="ENUM.cs" />
     <Compile Include="Unit.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UnitMove.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="unityeditor.dll" />
